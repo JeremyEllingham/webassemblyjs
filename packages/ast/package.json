@@ -12,7 +12,7 @@
   "author": "Sven Sauleau",
   "license": "MIT",
   "dependencies": {
-    "@webassemblyjs/helper-numbers": "1.11.3",
+    "@webassemblyjs/helper-numbers": "1.11.4",
     "@webassemblyjs/helper-wasm-bytecode": "1.11.3"
   },
   "repository": {
